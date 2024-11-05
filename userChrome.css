@@ -1,0 +1,7 @@
+@-moz-document url("chrome://global/content/pictureinpicture/player.xhtml") {
+  html {
+    border: 0px solid rgba(0, 0, 0, 0) !important;
+    border-radius: 1rem !important; 
+  }
+
+}
